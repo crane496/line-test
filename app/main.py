@@ -1,7 +1,7 @@
 import math
 # import time
 def main(argv):
-    start = time.time()
+    # start = time.time()
     if len(argv) !=3:
         print("-1")
         exit()
